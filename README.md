@@ -9,7 +9,6 @@ Always looking to collaborate so send me a ping if you have any cool ideas
 - 💬 Ask me about - Onewheels, My latest project, Getting coffee
 - 📫 How to reach me: - My email at <racecar47@icloud.com>, or my [LinkedIn](https://www.linkedin.com/in/eli-parker-a96338302/) profile.
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Future Motion has a patent on the onewheel
 
 ## Stats for Nerds 💻
 
