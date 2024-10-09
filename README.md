@@ -5,7 +5,7 @@ Always looking to collaborate so send me a ping if you have any cool ideas
 - 🔭 I’m currently working on - A C# app which scrapes my Uni website for calendar dates! (Can you *believe* they don't have an iCal file for their dates on a per-semester basis? Calendar nerds rejoice, for I have your solution! 🥳)
 - 🌱 I’m currently learning - Three.JS, Blazor, C#
 - 👯 I’m looking to collaborate on - Anything cool; VESC Onewheel programming stuff (one day)
-- 🤔 I’m looking for help with - Nothing, Academic Weapon
+- 🤔 I’m looking for help with - Blazor and MudBlazor!
 - 💬 Ask me about - Onewheels, My latest project, which coffee shop in SLC is best
 - 📫 How to reach me: - My email at <racecar47@icloud.com>, or my [LinkedIn](https://www.linkedin.com/in/eli-parker-a96338302/) profile.
 - 😄 Pronouns: He/Him/His
