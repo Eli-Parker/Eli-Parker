@@ -2,7 +2,7 @@
 
 Always looking to collaborate so send me a ping if you have any cool ideas
 
-- 🔭 I’m currently working on - A C# app which scrapes my Uni website for calendar dates! (Can you *believe* they don't have an iCal file for their dates on a per-semester basis? Calendar nerds rejoice, for I have your solution! 🥳)
+- 🔭 I’m currently working on - A Portfolio website using react and three-js (commonly called React-Three-Fiber)!
 - 🌱 I’m currently learning - Three.JS, Blazor, C#
 - 👯 I’m looking to collaborate on - Anything cool; VESC Onewheel programming stuff (one day)
 - 🤔 I’m looking for help with - Blazor and MudBlazor!
