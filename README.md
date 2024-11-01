@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./EP-Header-img.png)
 
 ### Hi, I'm Eli! 👋
 
