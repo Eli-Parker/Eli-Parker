@@ -1,4 +1,5 @@
-## Hi there 👋
+
+Hi, I'm Eli!
 
 Always looking to collaborate so send me a ping if you have any cool ideas
 
@@ -9,6 +10,10 @@ Always looking to collaborate so send me a ping if you have any cool ideas
 - 💬 Ask me about - Onewheels, My latest project, which coffee shop in SLC is best
 - 📫 How to reach me: - My email at <EliParkDev@icloud.com>, or my [LinkedIn](https://www.linkedin.com/in/eli-parker-a96338302/) profile.
 - 😄 Pronouns: He/Him/His
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/208fc571-7ef0-4214-8995-d2c9de519ea4" width="400">
+</p>
 
 ## Stats for Nerds 💻
 
