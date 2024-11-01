@@ -1,5 +1,6 @@
+![Header](./github-header-image.png)
 
-Hi, I'm Eli!
+### Hi, I'm Eli! 👋
 
 Always looking to collaborate so send me a ping if you have any cool ideas
 
