@@ -9,7 +9,7 @@ Always looking to collaborate so send me a ping if you have any cool ideas
 - 👯 I’m looking to collaborate on - Anything cool; VESC Onewheel programming stuff (one day)
 - 🤔 I’m looking for help with - Blazor and React!
 - 💬 Ask me about - Onewheels, My latest project, which coffee shop in SLC is best
-- 📫 How to reach me: - My email at <EliParkDev@icloud.com>, or my [LinkedIn](https://www.linkedin.com/in/eli-parker-a96338302/) profile.
+- 📫 How to reach me: - My email at <me@eliparker.dev>, or my [LinkedIn](https://www.linkedin.com/in/eli-parker-a96338302/) profile.
 - 😄 Pronouns: He/Him/His
 
 <p align="center">
