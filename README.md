@@ -2,15 +2,17 @@
 
 ### Hi, I'm Eli! 👋
 
-Always looking to collaborate so send me a ping if you have any cool ideas
+Trailblazing Onewheel enthusiast, pour-over coffee aficionado, and relentless school hustler.
 
-- 🔭 I’m currently working on - A Portfolio website using react and three-js (commonly called React-Three-Fiber)!
-- 🌱 I’m currently learning - Three.JS, React, R3F, c++
-- 👯 I’m looking to collaborate on - Anything cool; VESC Onewheel programming stuff (one day)
-- 🤔 I’m looking for help with - Blazor and React!
-- 💬 Ask me about - Onewheels, My latest project, which coffee shop in SLC is best
-- 📫 How to reach me: - My email at <me@eliparker.dev>, or my [LinkedIn](https://www.linkedin.com/in/eli-parker-a96338302/) profile.
-- 😄 Pronouns: He/Him/His
+- 🔭 **Building:** A slick portfolio with React & Three.js, plus a ride-tracking app for Onewheel!
+- 🌱 **Learning:** Diving deeper into React, C, and Node.js—always hungry for new tech.
+- 👯 **Collab:** Open to fun, creative projects! Let’s make something awesome together.
+- 🤔 **Help Wanted:** Physics homework warriors or backend savants, hit me up!
+- 💬 **Ask Me About:** How I built my Onewheel, my latest coding rabbit hole, or the coffee that’s fueling me today.
+- 🤝 **Connect:** Contact me at <me@eliparker.dev> or find me on [LinkedIn](https://www.linkedin.com/in/eli-parker-a96338302/).
+- 🫂 **Pronouns:** He/Him
+
+Relax and enjoy your coffee ☕️
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/208fc571-7ef0-4214-8995-d2c9de519ea4" width="400">
@@ -28,9 +30,6 @@ Always looking to collaborate so send me a ping if you have any cool ideas
   <img align="center" width="49%" height="auto" src="./metrics.classic.svg" />
   <img align="center" width="49%" height="auto" src="./metrics.plugin.habits.charts.svg" />
 <br/>
-<!--
-  <img align="center" width="49%" src="./iso_calender.svg" />
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
 
 
 <br/>
@@ -39,5 +38,4 @@ Always looking to collaborate so send me a ping if you have any cool ideas
 
 <br />
 
-Thanks to nor0x for the inspiration to do this to my repo!
--->
+ <!-- Thanks to nor0x for the inspiration to do this to my repo! -->
