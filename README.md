@@ -32,10 +32,4 @@ Relax and enjoy your coffee ☕️
 <br/>
 
 
-<br/>
-  <img align="center" width="49%" src="./github-habits.svg" />
-    <img align="center" width="49%" src="./stargazers-worldmap.svg" />
-
-<br />
-
  <!-- Thanks to nor0x for the inspiration to do this to my repo! -->
